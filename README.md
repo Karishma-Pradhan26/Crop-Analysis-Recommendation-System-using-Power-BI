@@ -21,13 +21,13 @@ I sourced two datasets from the Indian Government Portal, focusing on:
 **Interpretations from Dashboards:**
 
 1) Seasonal Yield and Production Dashboard:
-  - Analyzed crop yield and production based on crop type, month, season, and state.
-  - Key insights included the most productive month, season, and state for each crop, and production trends across various parameters.
+    - Analyzed crop yield and production based on crop type, month, season, and state.
+    - Key insights included the most productive month, season, and state for each crop, and production trends across various parameters.
 
 2) Environmental Factors Influencing Crop Dashboard:
-  - Examined environmental factors such as rainfall and temperature requirements for different crops.
-  - Provided insights into fertilizer usage across different states and their impact on crop yields.
+    - Examined environmental factors such as rainfall and temperature requirements for different crops.
+    - Provided insights into fertilizer usage across different states and their impact on crop yields.
     
 3) Soil Nutrient-Based Recommendation System Dashboard:
-  - Allowed adjustment of soil nutrient values to showcase crops flourishing under specific soil conditions.
-  - Assisted in decision-making regarding crop selection based on soil nutrient conditions.
+    - Allowed adjustment of soil nutrient values to showcase crops flourishing under specific soil conditions.
+    - Assisted in decision-making regarding crop selection based on soil nutrient conditions.
